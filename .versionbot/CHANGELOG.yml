@@ -1,4 +1,35 @@
 - commits:
+    - subject: Add source maps for devtools
+      hash: 0d88d553acd9b25797dcb3bca6157c36ef9e1dc8
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Lorenzo Alberto Maria Ambrosi <lorenzothunder.ambrosi@gmail.com>
+        signed-off-by: Lorenzo Alberto Maria Ambrosi <lorenzothunder.ambrosi@gmail.com>
+      author: Lorenzo Alberto Maria Ambrosi
+      nested: []
+    - subject: Clone submodules when initializing modules
+      hash: 67c61c4b0d20f50567192e1463da10c8c1d02eff
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Lorenzo Alberto Maria Ambrosi <lorenzothunder.ambrosi@gmail.com>
+        signed-off-by: Lorenzo Alberto Maria Ambrosi <lorenzothunder.ambrosi@gmail.com>
+      author: Lorenzo Alberto Maria Ambrosi
+      nested: []
+    - subject: 'patch: Select drive on list interaction rather than modal closing'
+      hash: 8c5a4cc28aea54c5b81873c5727f624fa49529f6
+      body: ''
+      footer:
+        Signed-off-by: Lorenzo Alberto Maria Ambrosi <lorenzothunder.ambrosi@gmail.com>
+        signed-off-by: Lorenzo Alberto Maria Ambrosi <lorenzothunder.ambrosi@gmail.com>
+      author: Lorenzo Alberto Maria Ambrosi
+      nested: []
+  version: 1.5.120
+  date: 2021-05-04T11:45:13.890Z
+- commits:
     - subject: Update readme for new PPA provider
       hash: 250aed2eb1911a6302a80bd7e9f4488c96787ee0
       body: ''
